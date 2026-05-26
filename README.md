@@ -1,7 +1,7 @@
 # 🤖 Nexe-Agent AI Portfolio
 
 
-**Live Portfolio:** [nexe-portfolio.vercel.app]([(https:nexe-portfolio-usman-shireen.vercel.app/)) 
+**Live Portfolio:** [nexe-portfolio-usman-shireen.vercel.app]([(https:nexe-portfolio-usman-shireen.vercel.app/)) 
 **Internship:** Agentic AI Developer — Nexe-Agent 2026
 
 ---
