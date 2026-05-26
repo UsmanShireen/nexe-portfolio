@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Nexe-Agent AI Portfolio
 
-## Getting Started
+> **Live Portfolio:** [nexe-portfolio.vercel.app](https://nexe-portfolio.vercel.app)  
+> **Internship:** Agentic AI Developer — Nexe-Agent 2026
 
-First, run the development server:
+---
+
+## 🚀 About
+
+This is the portfolio website for my Nexe-Agent internship projects — built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
+
+It showcases 6 production-grade AI agent projects, from beginner tool-calling to advanced multi-agent systems.
+
+---
+
+## 🌐 Live Projects
+
+| # | Project | Level | Live |
+|---|---------|-------|------|
+| 1 | Tool Calling Agent | 🟢 Beginner | [Live App](https://nexe-agent-projects-1.streamlit.app/) |
+| 2 | AI Calculator Agent | 🟢 Beginner | [Live App](https://nexe-agent-projects-2.streamlit.app/) |
+| 3 | Multi-Tool Agent | 🟡 Intermediate | [Live App](https://nexe-agent-projects-3.streamlit.app/) |
+| 4 | RAG Assistant | 🟡 Intermediate | [Live App](https://nexe-agent-projects-4.streamlit.app/) |
+| 5 | Autonomous Business Agent | 🔴 Advanced | [Live App](https://nexe-agent-projects-5.streamlit.app/) |
+| 6 | Multi-Agent System | 🔴 Advanced | [Live App](https://nexe-agent-projects-6.streamlit.app/) |
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Usage |
+|-----------|-------|
+| Next.js 14 | React framework |
+| TypeScript | Type safety |
+| Tailwind CSS | Styling |
+| Vercel | Deployment |
+
+---
+
+## 📦 Run Locally
 
 ```bash
+# Clone karo
+git clone https://github.com/UsmanShireen/nexe-portfolio.git
+cd nexe-portfolio
+
+# Install karo
+npm install
+
+# Run karo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open karo: `http://localhost:3000`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 All Projects Source Code
 
-## Learn More
+👉 [github.com/UsmanShireen/nexe-agent-projects](https://github.com/UsmanShireen/nexe-agent-projects)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👨‍💻 Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Usman Shireen**  
+📧 [usmanayan06@gmail.com](mailto:usmanayan06@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/usman-shireen-4211262b7/)  
+🐙 [GitHub](https://github.com/UsmanShireen)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+  <b>Built with ❤️ during Nexe-Agent Internship 2026</b>
+</div>
